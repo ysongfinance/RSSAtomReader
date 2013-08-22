@@ -4,7 +4,7 @@ RSSAtomReader
 
  Usage:
  
-   AtomHandler atomhander = new AtomHandler();
+     AtomHandler atomhander = new AtomHandler();
  
     SAXParserFactory factory = SAXParserFactory.newInstance();
   
